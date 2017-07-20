@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plasmodium on Ward Lab</title>
+    <link>http://www.wardlab.us/tags/plasmodium/</link>
+    <description>Recent content in Plasmodium on Ward Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Gary Ward</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/plasmodium/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Plasmodium Invasion 1</title>
+      <link>http://www.wardlab.us/project/plasmodium-invasion-1/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/plasmodium-invasion-1/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/224765908&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Plasmodium knowlesi merozoites were incubated with rhesus monkey erythrocytes at
+37oC on the stage of a Zeiss Axiophot fluorescence microscope equipped with Nomarski
+optics. Invasion was recorded on a Westinghouse Model ETV 6006E low-light level video
+camera and digitized. The parasite is ~1um long. The captured sequence is played back
+here in real time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plasmodium Invasion 2</title>
+      <link>http://www.wardlab.us/project/plasmodium-invasion-2/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/plasmodium-invasion-2/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/224765322&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Plasmodium knowlesi merozoites were incubated with PKH26-labeled rhesus monkey
+erythrocytes at 37oC on the stage of a Zeiss Axiophot fluorescence microscope
+equipped with Nomarski optics. Invasion was recorded on a Westinghouse Model ETV
+6006E low-light level video camera and digitized. The captured sequence is played
+back here in real time. The parasite is ~1um long. Note incorporation of PKH26,
+a non-exchanging, fluorescent lipophilic membrane probe, into the forming
+parasitophorous vacuole membrane (PVM). Quantification of fluorescence intensity
+demonstrated that the PVM is formed from host cell lipids (see Ward, MIller and
+Dvorak, J. Cell Sci [1993] 106, 237-248 for details).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

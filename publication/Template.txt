@@ -1,0 +1,36 @@
++++
+# IMPORTANT FIELDS
+title = "This Is an Important Publication"
+authors = ["White, W. & Goodman, S."]
+year = "2070"
+abstract = "ABSTRACT"
+publication = "Journal of Methamphetamine vol:pages"
+pmc_id = "PUBMEDNUMBER"
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Review Article
+# 2 = Research Article
+publication_types = ["2"]
+
+# IF YOU WANT TO PUT THIS PUBLICATION ON THE FRONT PAGE, PUT "TRUE" here otherwise put "FALSE"
+selected = false
+
+# HERE IS WHERE YOU ENTER A LINK TO THE ARTICLE
+[[url_custom]]
+name = "Get it"
+url = "somelink"
+
+# LINKS (ALL ARE OPTIONAL, UNCOMMENT (remove hashtag) TO ADD THE LINK)
+# url_dataset = "#"
+# url_pdf = "#"
+# url_slides = "#"
+
+# Optional header image (relative to `static/img/` folder).
+[header]
+image = "headers/uvm.jpg"
+caption = "University of Vermont"
+
+math = false
++++

@@ -1,0 +1,27 @@
++++
+# --1-- ADD DATE TIME
+datetime="Tuesdays, 11:30 AM - 12:30 PM"
+# --2-- Title for the event/meeting
+title = "CMB Seminar"
+abstract = ""
+abstract_short = ""
+# --3-- ABOUT THE EVENT
+event = "TODO Put in Information about what this event is here."
+event_url = ""
+# --4-- LOCATION
+location = "Davis Auditorium"
+
+selected = false
+math = true
+
+url_pdf = ""
+url_slides = ""
+url_video = ""
+
+# --5-- ADD HEADER IMAGE
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/header-1.jpg"
+caption = "T. gondii"
+
++++

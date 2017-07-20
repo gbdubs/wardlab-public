@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetings and Seminars on Ward Lab</title>
+    <link>http://www.wardlab.us/talk/</link>
+    <description>Recent content in Meetings and Seminars on Ward Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Gary Ward</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CMB Seminar</title>
+      <link>http://www.wardlab.us/talk/cmb_seminar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/talk/cmb_seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MMG Departmental Seminar</title>
+      <link>http://www.wardlab.us/talk/mmg_dept_seminar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/talk/mmg_dept_seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ward Lab Data Meeting</title>
+      <link>http://www.wardlab.us/talk/lab_data_meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/talk/lab_data_meeting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

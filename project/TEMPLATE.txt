@@ -1,0 +1,38 @@
++++
+# --1-- Put the date that you want the video to be presented as (newest videos will come first)
+date = "2017-07-01"
+
+# --2-- This is the Name of the Video that will appear as the title on this page and on the homepage
+title = "3D Motility 1"
+
+# --3-- One line project summary to display on homepage (I have been putting the authors)
+summary = "Jacqueline Leung and Gary Ward"
+
+# --4-- SQUARE image location (should be something like movies/toxo-motility-1.png
+image_preview = "movies/3d-motility-1.png"
+
+# --5-- Optional: Tags for videos allow filtering and sorting on the main page.  
+# See "Video Tags" In the user's guide.
+# Example: tags = ["motility", "toxoplasma", "3d-motility"]
+tags = ["motility", "3d-motility"]
+
+# --7-- Finally, insert the vimeo id into the vimeo element down below
+# --8-- Update the longform description of the video to be what you want
+# --9-- Verify that this has worked by running the site locally, and seeing it on the front page.
+
+# Ignore these parameters
+external_link = ""
+math = false
+
++++
+
+{{< vimeo 224765313 >}}
+
+RH strain tachyzoites were resuspended in diluted Matrigel containing Hoechst 33342.
+Fluorescent parasite nuclei were imaged in a 402 um x 401 um x 40 um volume 
+(1 um z-slices) every 0.88 s for 60 s by time-lapse fluorescence videomicroscopy.
+The parasites move in left-handed, corkscrew-like trajectories; one representative
+trajectory is highlighted in green. Video playback is set at 4.5x speed. 
+Scale bar = 10 um.
+
+For further details, see PLOS ONE 9(1): e85763. doi:10.1371/journal.pone.0085763

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toxo Egress on Ward Lab</title>
+    <link>http://www.wardlab.us/tags/toxo-egress/</link>
+    <description>Recent content in Toxo Egress on Ward Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Gary Ward</copyright>
+    <lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/toxo-egress/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Host Cell Egress 1</title>
+      <link>http://www.wardlab.us/project/host-cell-egress-1/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/host-cell-egress-1/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/224765318&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;TODO(GARYWARD)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
