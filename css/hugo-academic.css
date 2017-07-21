@@ -1091,6 +1091,28 @@ div.alert-warning p:first-child::before {
   content: '\f071';
 }
 
+/** I ADDED THIS **/
+
+div.alert-megaphone p:first-child::before {
+  content: '\f0a1';
+}
+
+div.alert-megaphone {
+  background: #91c791;
+  border: 1px solid #578c57;
+}
+
+div.alert-thumbsup p:first-child::before {
+  content: '\f164';
+}
+
+div.alert-thumbsup {
+  background: #9fb7d6;
+  border: 1px solid #6f6fd8;
+}
+
+/** I STOPPED ADDING HERE **/
+
 div.alert a {
   color: rgba(255,255,255,0.9);
   text-decoration: none;
