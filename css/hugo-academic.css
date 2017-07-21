@@ -1098,7 +1098,7 @@ div.alert-megaphone p:first-child::before {
 }
 
 div.alert-megaphone {
-  background: #91c791;
+  background: #c9e8c9;
   border: 1px solid #578c57;
 }
 
@@ -1107,7 +1107,7 @@ div.alert-thumbsup p:first-child::before {
 }
 
 div.alert-thumbsup {
-  background: #9fb7d6;
+  background: #cad7e8;
   border: 1px solid #6f6fd8;
 }
 
