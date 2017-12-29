@@ -1,4 +1,7 @@
 +++
+# Top priority is specified first on page.
+priority = 100
+
 # --1-- Put the date that you want the video to be presented as (newest videos will come first)
 date = "2017-07-01"
 

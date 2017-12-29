@@ -394,6 +394,10 @@ article {
   margin: 0 auto 0 auto;
 }
 
+.article-container iframe {
+  border: none;
+}
+
 .article-header {
   position: relative;
   clear: both;

@@ -8,3 +8,8 @@ section#links a {
 section#links img {
     height: 3rem;
 }
+
+blockquote {
+	font-size: inherit !important;
+	font-style: italic;
+}

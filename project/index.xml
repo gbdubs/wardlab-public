@@ -7,157 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Gary Ward</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>3D Motility 1</title>
-      <link>http://www.wardlab.us/project/3d-motility-1/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/project/3d-motility-1/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/224765313&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;RH strain tachyzoites were resuspended in diluted Matrigel containing Hoechst 33342.
-Fluorescent parasite nuclei were imaged in a 402 um x 401 um x 40 um volume
-(1 um z-slices) every 0.88 s for 60 s by time-lapse fluorescence videomicroscopy.
-The parasites move in left-handed, corkscrew-like trajectories; one representative
-trajectory is highlighted in green. Video playback is set at 4.5x speed.
-Scale bar = 10 um.&lt;/p&gt;
-
-&lt;p&gt;For further details, see PLOS ONE 9(1): e85763. doi:10.1371/journal.pone.0085763&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>In vitro Motility 1</title>
-      <link>http://www.wardlab.us/project/in-vitro-motility-1/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/project/in-vitro-motility-1/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/224765335&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Recombinant T. gondii MyosinA was produced in insect cells, immunoaffinity purified
-and adsorbed to nitrocellulose-coated coverslips. TRITC-phalloidin labeled actin
-filaments were added to the immobilized motor complexes, and actin filament displacement
-in the presence of ATP was captured by videomicroscopy. Filament displacement is shown
-in real time. See PMCID: PMC4215259 for details.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Plasmodium Invasion 1</title>
-      <link>http://www.wardlab.us/project/plasmodium-invasion-1/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/project/plasmodium-invasion-1/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/224765908&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Plasmodium knowlesi merozoites were incubated with rhesus monkey erythrocytes at
-37oC on the stage of a Zeiss Axiophot fluorescence microscope equipped with Nomarski
-optics. Invasion was recorded on a Westinghouse Model ETV 6006E low-light level video
-camera and digitized. The parasite is ~1um long. The captured sequence is played back
-here in real time.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Plasmodium Invasion 2</title>
-      <link>http://www.wardlab.us/project/plasmodium-invasion-2/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/project/plasmodium-invasion-2/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/224765322&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Plasmodium knowlesi merozoites were incubated with PKH26-labeled rhesus monkey
-erythrocytes at 37oC on the stage of a Zeiss Axiophot fluorescence microscope
-equipped with Nomarski optics. Invasion was recorded on a Westinghouse Model ETV
-6006E low-light level video camera and digitized. The captured sequence is played
-back here in real time. The parasite is ~1um long. Note incorporation of PKH26,
-a non-exchanging, fluorescent lipophilic membrane probe, into the forming
-parasitophorous vacuole membrane (PVM). Quantification of fluorescence intensity
-demonstrated that the PVM is formed from host cell lipids (see Ward, MIller and
-Dvorak, J. Cell Sci [1993] 106, 237-248 for details).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Toxoplasma Invasion 1</title>
-      <link>http://www.wardlab.us/project/toxo-invasion-1/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/project/toxo-invasion-1/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/224765350&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Invasion of &lt;em&gt;T. gondii&lt;/em&gt; tachyzoites into human foreskin fibroblasts.
-Note the constriction in the parasite&amp;rsquo;s plasma membrane that moves from anterior
-to posterior as the parasite penetrates past the host plasma membrane and into the
-developing parasitophorous vacuole. Real time; filmed at 35oC using a Dage VE1000SIT
-camera mounted on a Nikon Eclipse E400 microscope (Nomarski optics).
-The parasites are ~7um long.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Toxoplasma Invasion 2</title>
-      <link>http://www.wardlab.us/project/toxo-invasion-2/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/project/toxo-invasion-2/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/224765357&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Invasion of T. gondii tachyzoites into human foreskin fibroblasts.
-Note the constriction in the parasite&amp;rsquo;s plasma membrane that moves from anterior to
-posterior as the parasite penetrates past the host plasma membrane and into the developing
-parasitophorous vacuole. Real time; filmed at 35oC using a Dage VE1000SIT camera mounted
-on a Nikon Eclipse E400 microscope (Nomarski optics). The parasite is ~7um long.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Toxoplasma Invasion 3</title>
-      <link>http://www.wardlab.us/project/toxo-invasion-3/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/project/toxo-invasion-3/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/224765362&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;TODO(GARYWARD) Provide a paragraph description Here&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Toxoplasma Motility 1</title>
       <link>http://www.wardlab.us/project/toxo-motility-1/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.wardlab.us/project/toxo-motility-1/</guid>
       <description>
@@ -166,7 +22,8 @@ on a Nikon Eclipse E400 microscope (Nomarski optics). The parasite is ~7um long.
  &lt;/div&gt;
 
 
-&lt;p&gt;T. gondii tachyzoites were prelabeled with a fluorescent monoclonal antibody
+&lt;p&gt;&lt;br&gt;
+T. gondii tachyzoites were prelabeled with a fluorescent monoclonal antibody
 against the major GPI-linked surface protein, SAG1, added to glass coverslips
 precoated with bovine serum albumin and warmed to 35oC.  As the parasite underwent
 circular gliding, the trail of fluorescent antibody deposited at its posterior end
@@ -178,7 +35,7 @@ The sequence is played back in real time; parasite is ~7um long.&lt;/p&gt;
     <item>
       <title>Toxoplasma Motility 2</title>
       <link>http://www.wardlab.us/project/toxo-motility-2/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.wardlab.us/project/toxo-motility-2/</guid>
       <description>
@@ -187,7 +44,8 @@ The sequence is played back in real time; parasite is ~7um long.&lt;/p&gt;
  &lt;/div&gt;
 
 
-&lt;p&gt;T. gondii tachyzoites were added to glass coverslips precoated with bovine
+&lt;p&gt;&lt;br&gt;
+T. gondii tachyzoites were added to glass coverslips precoated with bovine
 serum albumin and warmed on the microscope stage to 35oC. The three different
 types of tachyzoite motility as defined by Hakaanson, Sibley and colleagues
 (Mol Biol Cell 10: 3539), i.e., circular gliding, helical gliding and twirling,
@@ -198,9 +56,114 @@ time; parasites are ~7um long.&lt;/p&gt;
     </item>
     
     <item>
+      <title>3D Motility 1</title>
+      <link>http://www.wardlab.us/project/3d-motility-1/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/3d-motility-1/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/224765313&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;
+RH strain tachyzoites were resuspended in diluted Matrigel containing Hoechst 33342.
+Fluorescent parasite nuclei were imaged in a 402 um x 401 um x 40 um volume
+(1 um z-slices) every 0.88 s for 60 s by time-lapse fluorescence videomicroscopy.
+The parasites move in left-handed, corkscrew-like trajectories; one representative
+trajectory is highlighted in green. Video playback is set at 4.5x speed.
+Scale bar = 10 um.&lt;/p&gt;
+
+&lt;p&gt;For further details, see PMCID: &lt;a href=&#34;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0085763&#34; target=&#34;_blank&#34;&gt;PMC3906025&lt;/a&gt; for details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In vitro Motility 1</title>
+      <link>http://www.wardlab.us/project/in-vitro-motility-1/</link>
+      <pubDate>Sat, 07 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/in-vitro-motility-1/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/248911845&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;
+Recombinant T. gondii MyosinA was produced in insect cells, immunoaffinity purified
+and adsorbed to nitrocellulose-coated coverslips. TRITC-phalloidin labeled actin
+filaments were added to the immobilized motor complexes, and actin filament displacement
+in the presence of ATP was captured by videomicroscopy. Filament displacement is shown
+in real time. See PMCID: &lt;a href=&#34;http://www.jbc.org/content/289/44/30832&#34; target=&#34;_blank&#34;&gt;PMC4215259&lt;/a&gt; for details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toxoplasma Invasion 1</title>
+      <link>http://www.wardlab.us/project/toxo-invasion-1/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/toxo-invasion-1/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/224765350&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;
+Invasion of a &lt;em&gt;T. gondii&lt;/em&gt; tachyzoite into a human foreskin fibroblast.
+Note the constriction in the parasite&amp;rsquo;s plasma membrane that moves from anterior
+to posterior as the parasite penetrates past the host plasma membrane and into the
+developing parasitophorous vacuole. Real time; filmed at 35oC using a Dage VE1000SIT
+camera mounted on a Nikon Eclipse E400 microscope (Nomarski optics).
+The parasites are ~7um long.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toxoplasma Invasion 2</title>
+      <link>http://www.wardlab.us/project/toxo-invasion-2/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/toxo-invasion-2/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/224765357&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;
+Invasion of a T. gondii tachyzoite into a human foreskin fibroblast.
+Note the constriction in the parasite&amp;rsquo;s plasma membrane that moves from anterior to
+posterior as the parasite penetrates past the host plasma membrane and into the developing
+parasitophorous vacuole. Real time; filmed at 35oC using a Dage VE1000SIT camera mounted
+on a Nikon Eclipse E400 microscope (Nomarski optics). The parasite is ~7um long.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toxoplasma Invasion 3</title>
+      <link>http://www.wardlab.us/project/toxo-invasion-3/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/toxo-invasion-3/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/224765362&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;
+Invasion of a T. gondii tachyzoite into a human foreskin fibroblast. Note the constriction in the parasite’s plasma membrane that moves from anterior to posterior as the parasite penetrates past the host plasma membrane and into the developing parasitophorous vacuole. Note also the migration of the internalized parasite to a perinuclear region, which begins with an abrupt &amp;ldquo;yank&amp;rdquo; on the parasite at ~1:23. Filmed at 35oC on a Zeiss Axiovert microscope (Nomarski optics). The parasites are ~7um long.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Host Cell Egress 1</title>
       <link>http://www.wardlab.us/project/host-cell-egress-1/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.wardlab.us/project/host-cell-egress-1/</guid>
       <description>
@@ -209,7 +172,54 @@ time; parasites are ~7um long.&lt;/p&gt;
  &lt;/div&gt;
 
 
-&lt;p&gt;TODO(GARYWARD)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Eight Toxoplasma gondii tachyzoites in a single parasitophorous vacuole were stimulated to egresss from the infected host cell by treatment with calcium ionophore (1 uM ionomycin) in DMEM containing 4 mM calcium.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plasmodium Invasion 1</title>
+      <link>http://www.wardlab.us/project/plasmodium-invasion-1/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/plasmodium-invasion-1/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/224765908&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;
+Plasmodium knowlesi merozoites were incubated with rhesus monkey erythrocytes at
+37oC on the stage of a Zeiss Axiophot fluorescence microscope equipped with Nomarski
+optics. Invasion was recorded on a Westinghouse Model ETV 6006E low-light level video
+camera and digitized. The parasite is ~1um long. The captured sequence is played back
+here in real time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plasmodium Invasion 2</title>
+      <link>http://www.wardlab.us/project/plasmodium-invasion-2/</link>
+      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/project/plasmodium-invasion-2/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/224765322&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;
+Plasmodium knowlesi merozoites were incubated with PKH26-labeled rhesus monkey
+erythrocytes at 37oC on the stage of a Zeiss Axiophot fluorescence microscope
+equipped with Nomarski optics. Invasion was recorded on a Westinghouse Model ETV
+6006E low-light level video camera and digitized. The captured sequence is played
+back here in real time. The parasite is ~1um long. Note incorporation of PKH26,
+a non-exchanging, fluorescent lipophilic membrane probe, into the forming
+parasitophorous vacuole membrane (PVM). Quantification of fluorescence intensity
+demonstrated that the PVM is formed from host cell lipids (see Ward, MIller and
+Dvorak, J. Cell Sci [1993] 106, 237-248 for details).&lt;/p&gt;
 </description>
     </item>
     
