@@ -3,6 +3,8 @@
 title = "This Is an Important Publication"
 authors = ["White, W. & Goodman, S."]
 year = "2070"
+month = "12"
+day = "21"
 abstract = "ABSTRACT"
 publication = "Journal of Methamphetamine vol:pages"
 pmc_id = "PUBMEDNUMBER"
