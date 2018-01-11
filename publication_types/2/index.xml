@@ -10,6 +10,15 @@
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>96-Well plates providing high optical resolution for high-throughput, immunofluorescence-based screening of monoclonal antibodies against Toxoplasma gondii</title>
+      <link>http://www.wardlab.us/publication/carey_1999/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/publication/carey_1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Toxoplasma gondii class XIV myosin, expressed in Sf9 cells with a parasite co-chaperone, requires two light chains for fast motility</title>
       <link>http://www.wardlab.us/publication/bookwalter-kelsen-et-al-2014/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,11 +37,38 @@
     </item>
     
     <item>
+      <title>A small-molecule approach to studying invasive mechanisms of Toxoplasma gondii</title>
+      <link>http://www.wardlab.us/publication/carey_westwood_2004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/publication/carey_westwood_2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A small-molecule inhibitor of T. gondii motility induces the posttranslational modification of myosin light chain-1 and inhibits myosin motor activity</title>
       <link>http://www.wardlab.us/publication/heaslip-et-al-2010/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.wardlab.us/publication/heaslip-et-al-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actin-binding proteins of invasive malaria parasites and the regulation of actin polymerization by a complex of 32/34-kDa proteins associated with heat shock protein 70kDa</title>
+      <link>http://www.wardlab.us/publication/tardieux_1998/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/publication/tardieux_1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biosynthesis of glycosylphosphatidylinositol is essential to the survival of the protozoan parasite Toxoplasma gondii</title>
+      <link>http://www.wardlab.us/publication/wichroski_2003/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/publication/wichroski_2003/</guid>
       <description></description>
     </item>
     
@@ -55,6 +91,24 @@
     </item>
     
     <item>
+      <title>Clostridium septicum alpha-toxin is active against the parasitic protozoan Toxoplasma gondii and targets members of the SAG family of glycosylphosphatidylinositol-anchored surface proteins</title>
+      <link>http://www.wardlab.us/publication/wichroski_2002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/publication/wichroski_2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional expression of Toxoplasma gondii apical membrane antigen-1 (TgAMA1) demonstrates that TgAMA1 plays a critical role in host cell invasion</title>
+      <link>http://www.wardlab.us/publication/mital_2005/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/publication/mital_2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disruption of TgPHIL1 alters specific parameters of Toxoplasma gondii motility measured in a quantitative, three-dimensional live motility assay</title>
       <link>http://www.wardlab.us/publication/leung-rould-et-al-2014/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -73,74 +127,20 @@
     </item>
     
     <item>
+      <title>Distamycin A selectively inhibits Acanthamoeba RNA synthesis and differentiation</title>
+      <link>http://www.wardlab.us/publication/orfeo_1999/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.wardlab.us/publication/orfeo_1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GAP45 phosphorylation controls assembly of the Toxoplasma myosin XIV complex</title>
       <link>http://www.wardlab.us/publication/gilk-et-al-2009/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.wardlab.us/publication/gilk-et-al-2009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gene expression signatures and small-molecule compounds link a protein kinase to Plasmodium falciparum motility</title>
-      <link>http://www.wardlab.us/publication/kato_2008/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/publication/kato_2008/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global Analysis of Palmitoylated Proteins in Toxoplasma gondii</title>
-      <link>http://www.wardlab.us/publication/foe-et-al-2015/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/publication/foe-et-al-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of Cryptosporidium parvum active chemical series by repurposing the open access malaria box</title>
-      <link>http://www.wardlab.us/publication/bessoff-et-al-2014/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/publication/bessoff-et-al-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of T. gondii myosin light chain-1 as a direct target of TachypleginA-2, a small-molecule inhibitor of parasite motility and invasion</title>
-      <link>http://www.wardlab.us/publication/leung_tran_2014/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/publication/leung_tran_2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of TgCBAP, a novel cytoskeletal protein that localizes to three distinct subcompartments of the Toxoplasma gondii pellicle</title>
-      <link>http://www.wardlab.us/publication/tilley-et-al-2014/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/publication/tilley-et-al-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification of conoidin A as a covalent inhibitor of peroxiredoxin II</title>
-      <link>http://www.wardlab.us/publication/haraldsen-et-al-2009/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/publication/haraldsen-et-al-2009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intramembrane proteolysis of Toxoplasma apical membrane antigen 1 facilitates host-cell invasion but is dispensable for replication</title>
-      <link>http://www.wardlab.us/publication/parussini-et-al-2012/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.wardlab.us/publication/parussini-et-al-2012/</guid>
       <description></description>
     </item>
     
