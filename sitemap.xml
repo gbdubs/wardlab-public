@@ -122,6 +122,15 @@
     
     <url>
     
+      <loc>http://www.wardlab.us/publication_types/1/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.wardlab.us/publication_types/2/</loc>
       <priority>0</priority>
     </url>
@@ -252,7 +261,23 @@
     
     <url>
     
+      <loc>http://www.wardlab.us/publication/mital_2008_v2/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.wardlab.us/publication/ward_vacquier_1983/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.wardlab.us/publication/ward_moy_vacquier_1986/</loc>
     </url>
     
   
@@ -397,6 +422,14 @@
     <url>
     
       <loc>http://www.wardlab.us/publication/parussini-et-al-2012/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.wardlab.us/publication/ward_chitnis_miller_1994_incomplete_v2/</loc>
     </url>
     
   
@@ -626,6 +659,14 @@
       <loc>http://www.wardlab.us/tags/toxo-motility/</loc>
       <lastmod>2017-10-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.wardlab.us/publication/bogyo_ward_2013/</loc>
     </url>
     
   
