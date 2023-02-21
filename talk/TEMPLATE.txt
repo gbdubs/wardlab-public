@@ -13,3 +13,11 @@ image = "ward-lab-2012.jpg"
 caption = "Ward Lab 2012 Members"
 
 +++
+
+
+To link to a staic page:
+
+datetime="Thursdays, 8:30-10 AM"
+title = "Vermont Center for Immunobiology and Infectious Disease Lab Meeting" 
+schedule_url = "pdf/VCIID_RIP_2021.pdf"
+location = "HSRF 400"
