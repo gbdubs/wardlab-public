@@ -1,8 +1,8 @@
 +++
-datetime="Tuesdays, 9:30 AM - 10:30 AM"
-title = "Ward Lab Data Meeting"
-schedule_url = "www.google.com"
-location = "Stafford 301"
+datetime="Thursdays 10:00 - 11:00 AM"
+title = "TGIR"
+schedule_url = "https://www.med.uvm.edu/docs/tgir_cobre_seminar_schedule_spring_2023/mmg/tgir_cobre_seminar_schedule_spring_2023.pdf?sfvrsn=294d4213_0"
+location = "HSRF 400"
 
 selected = false
 math = true
